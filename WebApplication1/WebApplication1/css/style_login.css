@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,66,158,1) 35%, rgba(0,212,255,1) 100%);
+    background-size: cover;
+    background-size: cover;
+}
+input,h2,p{
+    font-family: 'Roboto Mono', monospace;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size:18px;
+   
+}
+.container{
+    width: 30%;
+    margin:5em auto;
+    background:white;
+    padding: 42px 35px;
+    
+}
+.container h2 {
+    color:#f0bcb4;
+    font-size:32px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    text-align: center;
+    
+}
+.form{
+   display: flex; 
+    flex-direction: column;
+}
+.form img{
+    width: 200px;
+    height:180px;
+    text-align: center;
+    align-self: center;
+}
+.textbox{
+    width: 100%;
+    padding: 15px 0px 15px 15px;
+    border: 1px solid #f0bcb4;  
+    outline: none;
+    font-size: 14px;
+    margin: 14px 0px;
+    
+}
+.textbox:focus{
+    box-shadow: 0 0 10px #f0bcb4;
+}
+.btn{
+    padding: 12px 38px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    background: #f0bcb4;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin: 0 auto;
+    text-align: center;
+    transition: 0.5s all;
+    align-self: center;
+    
+}

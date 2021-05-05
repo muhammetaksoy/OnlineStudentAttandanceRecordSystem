@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<h3 class="bg-primary p-4 text-white">Informations</h3>
+<table class="table table-hover">
+    <tr>
+        <td>StudentName: <b>@Session["StudentName"]</b> </td>
+    </tr>
+
+    <tr>
+        <td>StudentSurname: <b>@Session["StudentSurname"]</b></td>
+    </tr>
+    <tr>
+        <td>StudentNumber:<b>@Session["StudentNumber"]</b></td>
+    </tr>
+    <tr>
+        <td>Email:<b>@Session["Email"]</b></td>
+    </tr>
+    <tr>
+        <td>MobileNumber: <b>@Session["MobileNumber"]</b></td>
+    </tr>
+
+    <tr>
+        <td>Gender:<b>@Session["Gender"]</b></td>
+    </tr>
+    <tr>
+        <td>City:<b>@Session["City"]</b></td>
+    </tr>
+    <tr>
+        <td>DepartmentName:<b>@Session["DepartmentName"]</b></td>
+    </tr>
+    <tr>
+        <td>UserName:<b>@Session["UserName"]</b></td>
+    </tr>
+    <tr>
+        <td>Password:<b>@Session["Password"]</b></td>
+    </tr>
+</table>

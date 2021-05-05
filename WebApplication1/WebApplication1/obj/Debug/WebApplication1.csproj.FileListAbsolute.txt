@@ -1,0 +1,219 @@
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Aksoy\Desktop\deneme\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Aksoy\Desktop\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\forGithub\Okul Projeleri\20_OnlineStudentAttandanceRecordSystem_1700003949_1700005065\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

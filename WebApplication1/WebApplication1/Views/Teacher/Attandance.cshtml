@@ -1,0 +1,84 @@
+﻿@model WebApplication1.Models.ViewModel.AttendanceViewModel
+@{
+    ViewBag.Title = "Attandance";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<h3 class="bg-success p-4 text-white">Take Attandance</h3>
+
+@using (Html.BeginForm("Attandance", "Teacher", FormMethod.Post))
+{
+    <div class="d-flex justify-content-between">
+        <div>
+            <label>Select CourseName</label>
+            @Html.DropDownList("CourseId", (SelectList)ViewBag.CourseData, "Kurs Seçiniz", new { @class = "form-control dropdown" })
+        </div>
+        <div>
+            <button class="btn btn-info">Show Student</button>
+        </div>
+    </div>
+}
+
+@if (TempData["message"] != null)
+{
+    <div class="my-4 alert alert-@TempData["alert-color"]">
+        @TempData["message"]
+    </div>
+}
+
+@if (Model.AttendanceList != null)
+{
+    <table class="table table-bordered mt-3">
+        <tr class="bg-primary" style="color:white;">
+            <td>Date</td>
+            <td>CourseName</td>
+            <td>StudentName</td>
+            <td>StudentSurname</td>
+            <td>Present or Absent?</td>
+            <td>Take attandance</td>
+
+        </tr>
+
+        @foreach (var item in Model.AttendanceList)
+        {
+        <tr>
+            @using (Html.BeginForm("StudentAttendanceSave", "Teacher", FormMethod.Post))
+            {
+                @Html.HiddenFor(model => model.CourseId, new { @value = item.CourseId })
+
+                Model.StudentId = item.StudentId;
+                Model.TeacherId = item.TeacherId;
+                Model.AttendanceList = item.AttendanceList;
+
+                @Html.HiddenFor(model => Model.StudentId)
+                @Html.HiddenFor(model => Model.TeacherId)
+                @Html.HiddenFor(model => Model.AttendanceList)
+
+                <td>
+                    <div>
+                        <label>Select Date</label>
+                        @Html.TextBoxFor(model => model.Date, new { type = "date" })
+                    </div>
+                </td>
+                <td> @item.CourseName </td>
+                <td> @item.StudentName </td>
+                <td> @item.StudentSurname </td>
+                <td>
+                    <div class="form-check form-switch">
+                        @Html.CheckBoxFor(model => model.IsPresent, new { @class = "form-check-input", id = "flexSwitchCheckChecked", @checked = "checked" })
+                        <label class="form-check-label" for="flexSwitchCheckChecked">Present/Absent</label>
+                    </div>
+                </td>
+                <td>
+                    <button type="submit" class="btn btn-dark">Take attandance </button>
+                </td>
+            }
+          </tr>
+         }   
+        
+    </table>
+}
+
+
+
+

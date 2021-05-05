@@ -1,0 +1,35 @@
+﻿@using WebApplication1.Models
+@model List<Course>
+@{
+    ViewBag.Title = "ViewCourse";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <tr class="bg-primary" style="color:white;">
+        <td>CourseID</td>
+        <td>CourseCode</td>
+        <td>CourseName</td>
+        <td>CourseAkts</td>
+        <td>DepartmentName</td>
+        <td>Delete</td>
+        <td>Update</td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CourseID</td>
+            <td>@item.CourseCode</td>
+            <td>@item.CourseName</td>
+            <td>@item.CourseAkts</td>
+            <td>@item.Department.DepartmentName</td>
+            <td><a href="/Admin/DeleteCourse/@item.CourseID" class="btn btn-danger">Delete</a></td>
+            <td><a href="/Admin/UpdateCourse/@item.CourseID" class="btn btn-success">Update</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/Admin/AddCourse" class="btn btn-dark">Add Course</a>
+

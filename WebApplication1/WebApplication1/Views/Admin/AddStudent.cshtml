@@ -1,0 +1,45 @@
+﻿@model WebApplication1.Models.Student
+@{
+    ViewBag.Title = "AddStudent";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<form class="form-group" method="post">
+    <div>
+        <label>Student Name</label>
+        @Html.EditorFor(model => model.StudentName, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>Student Surname</label>
+        @Html.EditorFor(model => model.StudentSurname, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>StudentNumber</label>
+        @Html.EditorFor(model => model.StudentNumber, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>Email</label>
+        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>MobileNumber</label>
+        @Html.EditorFor(model => model.MobileNumber, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>Gender</label>
+        @Html.EditorFor(model => model.Gender, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>City</label>
+        @Html.EditorFor(model => model.City, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div>
+        <label>DepartmentName</label>
+        @Html.DropDownList("DepartmentID", null, htmlAttributes: new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:20px;">
+        <button class="btn btn-info">Add Course</button>
+    </div>
+
+</form>
+

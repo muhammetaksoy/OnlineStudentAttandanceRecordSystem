@@ -1,0 +1,32 @@
+﻿@model WebApplication1.Models.Login
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="~/css/style_login.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h2>STUDENT ATTANDANCE SYSTEM</h2>
+
+        @using (Html.BeginForm("StudentLogin", "Login", FormMethod.Post, new { @class = "form" }))
+        {
+            <img src="~/images/avatar.png" />
+            <input type="text" class="textbox" name="Username" placeholder="USERNAME">
+            <input type="password" class="textbox" name="Password" placeholder="PASSWORD">
+            <button type="submit" class="btn">Login</button>
+            <br />
+
+        }
+    </div>
+    <p class="bottom">Made by Muhammet&Abdullah </p>
+</body>
+</html>

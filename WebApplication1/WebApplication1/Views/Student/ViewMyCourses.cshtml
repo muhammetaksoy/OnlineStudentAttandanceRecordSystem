@@ -1,0 +1,46 @@
+﻿@using WebApplication1.Models.ViewModel
+@model List<StudentCourseViewModel>
+@{
+    ViewBag.Title = "ViewMyCourses";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+
+<h3 class="bg-danger p-4 text-white">View My Courses</h3>
+
+
+    @if (@ViewBag.CourseCount == 1)
+    { 
+        <div class="alert alert-info mt-4">
+           You have @ViewBag.CourseCount course
+        </div>
+    }
+
+    else
+    {
+      <div class="alert alert-info mt-4">
+          You have @ViewBag.CourseCount courses
+      </div>
+    }
+
+
+<table class="table table-bordered">
+    <tr class="bg-primary" style="color:white;">
+        <td>CourseName</td>
+        <td>CourseCode</td>
+        <td>CourseAkts</td>
+        <td>DepartmentName</td>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CourseName</td>
+            <td>@item.CourseCode</td>
+            <td>@item.CourseAkts</td>
+            <td>@item.DepartmentName</td>
+
+        </tr>
+    }
+</table>

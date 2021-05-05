@@ -1,0 +1,58 @@
+﻿@model WebApplication1.Models.ViewModel.StudentCourseViewModel
+@{
+    ViewBag.Title = "CheckAttandance";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<h3 class="bg-success p-4 text-white">CheckAttandance</h3>
+
+@using (Html.BeginForm("StudentIsPresent", "Student", FormMethod.Post))
+{
+    <div class="mt-4">
+        <label>Select CourseName</label>
+
+        @Html.DropDownList("CourseId", (SelectList)ViewBag.CourseData, "Kurs Seçiniz", new { @class = "form-control dropdown" })
+
+    </div>
+    <div>
+        <button type="submit" class="btn btn-info my-4">CheckAttandance</button>
+    </div>
+}
+
+@if (Model.StudentCourseIsPresentList != null)
+{
+    <table class="table table-bordered mt-5">
+        <tr class="bg-primary" style="color:white;">
+            <td>Date</td>
+            <td>CourseName</td>
+            <td>Present or Absent?</td>
+        </tr>
+
+        @foreach (var item in Model.StudentCourseIsPresentList)
+        {
+        <tr>
+
+          
+            <td> @item.Date </td>
+            <td> @item.CourseName </td>
+            <td>
+                @if (item.IsPresent == true)
+                {
+                    <label class="text-success"> Present </label>
+                }
+                else
+                {
+                    <label class="text-danger"> Absent </label>
+                }
+            </td>
+
+
+        </tr>
+        }
+
+
+    </table>
+}
+
+
+

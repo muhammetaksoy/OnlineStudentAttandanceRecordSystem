@@ -1,0 +1,28 @@
+﻿@using WebApplication1.Models
+@model List<Department>
+@{
+    ViewBag.Title = "ViewDepartment";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <tr class="bg-primary" style="color:white;">
+        <td>DepartmentID</td>
+        <td>DepartmentName</td>
+        <td>Delete</td>
+        <td>Update</td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.DepartmentID</td>
+            <td>@item.DepartmentName</td>
+            <td><a href="/Admin/DeleteDepartment/@item.DepartmentID" class="btn btn-danger">Delete</a></td>
+            <td><a href="/Admin/UpdateDepartment/@item.DepartmentID" class="btn btn-success">Update</a></td>
+        </tr>
+    }
+</table>
+<a href="/Admin/AddDepartment" class="btn btn-dark">Add Department</a>
+
